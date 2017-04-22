@@ -1,0 +1,22 @@
+{
+  "name": "pierre-gilles-leymarie-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@personal:Pierre-Gilles/lagom.git"
+  },
+  "author": "Pierre-Gilles Leymarie",
+  "license": "CC-BY-NC-SA-3.0",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-purifycss": "^0.2.0",
+    "gulp-rename": "^1.2.2"
+  }
+}
