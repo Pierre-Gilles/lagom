@@ -2,6 +2,7 @@
 layout: post
 title: A brand new blog
 description: After more than 3 years of blogging about home automation on Gladys, I've decided to start a more personal blog in parallel!
+img: home.jpg
 categories:
 - blog
 ---
