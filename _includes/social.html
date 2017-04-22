@@ -66,6 +66,12 @@ Follow me:
   </a>
   {% endif %}
 
+  {% if site.data.theme.social.instagram %}
+  <a title="{{ site.data.theme.name }} on Instagram" href="https://www.instagram.com/{{ site.data.theme.social.instagram }}">
+    <i class="fa fa-instagram"></i>
+  </a>
+  {% endif %}
+
   {% if site.data.theme.show_atom_feed %}
   <a title="Atom feed" id="atom" href="/atom.xml">
     <i class="fa fa-rss-square"></i>
