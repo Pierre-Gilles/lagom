@@ -4,15 +4,12 @@
     {% if site.data.theme.social.gravatar %}
     <img src="http://www.gravatar.com/avatar/{{ site.data.theme.social.gravatar }}?s=200" id="gravatar" alt="My photo"/>
     {% else %}
-    <img src="/logo.png" id="logo" alt="Blog logo"/>
+    <img width="200" src="/logo-1x.jpg" srcset="/logo-1x.jpg 1x, /logo-2x.jpg 2x" id="logo" alt="Blog logo"/>
     {% endif %}
   </a>
   <h2>I'm <a href="/">{{ site.data.theme.name }}</a>.</h2>
   <div id="bio">
-    <p>A brief bio or something witty.</p>
-    <p>
-      Edit me in <code>_includes/sidebar.html</code>
-    </p>
+    <p>I'm a Back-End Software Engineer, working at <a href="https://bulldozair.com">BulldozAIR</a> (YC S16) and Founder of <a href="https://gladysproject.com">Gladys Project</a>. Node.js expert, focused on performance and reliability.</p>
   </div>
   <div id="social">
     {% include social.html %}
