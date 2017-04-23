@@ -80,4 +80,12 @@ I'm going to work on this and explain on this blog in real-time how I'm implemen
 
 The goal is not only to build a faster and more awesome platform, it's also to share my passion for back-end architecture 🙂
 
-I hope you will all enjoy this!
+This article is the beginning of series of 7 articles. I hope you will all enjoy it!
+
+- [Refactoring Gladys Developer Platform (Part 1)](https://pierregillesleymarie.com/blog/nodejs/gladys/2017/04/22/refactoring-gladys-developer-website.html)
+- RGDP - Database Design with PostgreSQL (Part 2) (Coming soon)
+- RGDP - Building a REST API with Node.js  (Part 3) (Coming soon)
+- RGDP - Setting up Unit testing, Continuous Integration and Deployment (Part 4) (Coming soon)
+- RGDP - Leveraging caching with Redis (Part 5) (Coming soon)
+- RGDP - Scheduling job with RabbitMQ (Part 6) (Coming soon)
+- RGDP - A front-end in React/Redux (Part 7) (Coming soon)
