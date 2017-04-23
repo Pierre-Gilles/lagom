@@ -20,7 +20,7 @@ The Gladys developer website was launched two years ago in 2015. The goal was to
 You all know that we have currently two websites on the Gladys project: 
 
 - [https://gladysproject.com](https://gladysproject.com)
-- [https://developer.gladysproject.com](developer.gladysproject.com)
+- [https://developer.gladysproject.com](https://developer.gladysproject.com)
 
 The problem is that today these websites are not well organized. The main website explains how to install Gladys, but the documentation is on the developer website. Modules are only displayed on Gladys developer website. Compatible devices are displayed on both websites. It's a mess!
 
