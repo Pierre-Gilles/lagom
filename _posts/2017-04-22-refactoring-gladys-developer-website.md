@@ -5,8 +5,9 @@ description: How I'm refactoring Gladys Developer Platform to grow Gladys commun
 img: refactoring-developer-website-part-1.jpg
 categories:
 - blog
-- nodejs
 - gladys
+redirect_from:
+- /blog/nodejs/gladys/2017/04/22/refactoring-gladys-developer-website.html
 ---
 
 Hi, everyone! 
