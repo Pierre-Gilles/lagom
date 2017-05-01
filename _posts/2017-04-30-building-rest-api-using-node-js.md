@@ -132,7 +132,7 @@ It's much more clear, and easier when you develop, because all files you need ar
 
 To hash password, I'm going to use [bcrypt](https://www.npmjs.com/package/bcrypt).
 
-For authentification, we want a stateless way of authenticating users. We are going to use [jsonwebtoken](jwt.io).
+For authentification, we want a stateless way of authenticating users. We are going to use [jsonwebtoken](https://jwt.io).
 
 What is a jsonwebtoken ?
 
