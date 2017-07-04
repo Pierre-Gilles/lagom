@@ -106,7 +106,7 @@ For the price it costs, you definitely have a nice machine.
 
 I really hope I'll get my mac back, (finger crossed) but this was a good opportunity to test the Raspberry Pi in Desktop mode!
 
-PS: For all users on [Gladys](https://gladysproject.com), sorry for not being that present last week, it was not an easy week. Without my Mac, it was hard to publish big changes on the project, especially on the video pack I'm working on. But i'm back soon!
+PS: For all users on [Gladys](https://gladysproject.com), sorry for not being that present last week, it was not an easy week. Without my Mac, it was hard to publish big changes on the project, especially on the video pack I'm working on. But I'll be back soon!
 
 
 
