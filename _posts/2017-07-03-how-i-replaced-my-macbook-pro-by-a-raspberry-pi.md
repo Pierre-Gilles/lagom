@@ -9,7 +9,7 @@ categories:
 
 Last week, I forgot my bag in a G7 Taxi in Paris. Inside was the MacBook Pro I'm using every day. This day was probably not a good day.
 
-The problem with losing your computer in a Taxi in Paris is that you can't contact the driver like you would do with an Uber. If you don't remember the Taxi numberplate, you have no chance to see the driver again. The only chance you have to get your bag back is to go to the "Found Items" Police department of Paris, and hope the driver has been honest.
+The problem with losing your computer in a Taxi in Paris is that you can't contact the driver like you would do with an Uber. If you don't remember the Taxi numberplate, you have no chance to see the driver again. The only chance you have to get your bag back is to go to the "Lost and Found" Police department of Paris, and hope the driver has been honest.
 
 ![I miss you, MacBook Pro!](/assets/img/2017-07-03-how-i-replaced-my-macbook-pro-by-a-raspberry-pi/my_good_old_macbook_pro.jpeg)
 
