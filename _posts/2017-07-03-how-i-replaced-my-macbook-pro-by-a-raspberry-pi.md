@@ -9,23 +9,27 @@ categories:
 
 Last week, I forgot my bag in a G7 Taxi in Paris. Inside was the MacBook Pro I'm using every day. This day was probably not a good day.
 
-The problem with losing your computer in a Taxi in Paris is that you can't contact the driver like you would do with an Uber. If you don't remenber the Taxi numberplate, you have no chance to see the driver again. The only chance you have to get your bag back is to go to the "item found" Police department of Paris, and hope the driver has been honest.
+The problem with losing your computer in a Taxi in Paris is that you can't contact the driver like you would do with an Uber. If you don't remember the Taxi numberplate, you have no chance to see the driver again. The only chance you have to get your bag back is to go to the "Found Items" Police department of Paris, and hope the driver has been honest.
+
+![I miss you, MacBook Pro!](/assets/img/2017-07-03-how-i-replaced-my-macbook-pro-by-a-raspberry-pi/my_good_old_macbook_pro.jpeg)
+
+I miss you, Macbook Pro!
 
 As the driver won't drop my bag immediately, I decided to wait one week before considering my bag as completely lost. What can I do during one week without any computers at home?
 Wait... that's not true, I have a computer at home! What about using my Raspberry Pi 3?
 
 The Raspberry Pi is clearly a good idea: It's powerful, it runs Linux, it's silent.  Let's go for one week on this!
 
-![I miss you, MacBook Pro!](/assets/img/2017-07-03-how-i-replaced-my-macbook-pro-by-a-raspberry-pi/my_good_old_macbook_pro.jpeg)
+![My Raspberry Pi 3](/assets/img/how-i-replaced-my-mabook-pro-by-a-raspberry-pi.png)
 
-I miss you, Macbook Pro!
+The Raspberry Pi 3
 
-## Softwares I was using on my mac
+## Softwares I was using on my Mac
 
-I'm software engineer, and use this personal mac for lots of stuff:
+I'm software engineer, and use this personal Mac for lots of stuff:
 
 - Coding on the opens-source project Gladys I founded. [Gladys](https://gladysproject.com) is a home assistant based on a Raspberry Pi (like a kind of Jarvis), written in Node.js so it's basically some Node.js development. For this I'm using VS Code + Node.js + MySQL.
-- Writing on Gladys blog. I'm writing my articles in Markdown using Macdown on my mac. I'm editing images with Photoshop.
+- Writing on Gladys blog. I'm writing my articles in Markdown using Macdown on my Mac. I'm editing images with Photoshop.
 - Answering messages on Gladys community (it's basically a Discourse forum)
 - Video editing on Final Cut Pro (outch, this is going to be hard to replace)
 - Web browsing (News reading, YouTube, Twitter)
@@ -43,7 +47,7 @@ I plugged an old Wireless Mouse, a really old USB keyboard, a 22" HDMI screen in
 
 ![Raspberry Pi Desktop Setup](/assets/img/2017-07-03-how-i-replaced-my-macbook-pro-by-a-raspberry-pi/desktop_setup.jpeg)
 
-The first good impression when turning the Pi on is the noise: The Raspberry Pi doesn't have any fans, so it's perfectly silent. My mac was quite silent too, but not that silent.
+The first good impression when turning the Pi on is the noise: The Raspberry Pi doesn't have any fans, so it's perfectly silent. My Mac was quite silent too, but not that silent.
 
 ## Working on the Raspberry Pi
 
@@ -67,17 +71,17 @@ To develop, I'm using VS Code, and spend most of my remaining time in the termin
 
 For the terminal, the Raspberry Pi is just perfect. Nothing change, I'm at home.
 
-For VS Code, whereas it's possible to compile it on ARM, I was more spectical. VS Code is an electron based app, so it starts a full instance of Chromium. It may be too heavy to run it next to Chromium.
+For VS Code, whereas it's possible to compile it on ARM, I was more skeptical. VS Code is an electron based app, so it starts a full instance of Chromium. It may be too heavy to run it next to Chromium.
 
 I decided to use vim with the Javascript plugin.
 
-The coding process itself is quite good. The only problem is that most tools you use on your dev machine are really slow on a Rasperry Pi. Webpack, uglifyJS, Babel: My good old mac was really better at this.
+The coding process itself is quite good. The only problem is that most tools you use on your dev machine are really slow on a Rasperry Pi. Webpack, uglifyJS, Babel: My good old Mac was really better at this.
 
 ### Image editing
 
 I forgot about Photoshop, and first tried Canva on the web. It was way too slow to really use it. And since I'm taking my pictures with my camera/phone, and usually transfer them using the SD port of the Mac, the best solution I found was connecting my camera using Wi-Fi to my iPhone.
 
-Then, using the canon app, I downloaded the pictures I wanted, edited the picture inside Canva iOS app, and uploaded the images to Google Drive. Not the most efficient, but it works!
+Then, using the Canon app, I downloaded the pictures I wanted, edited the picture inside Canva iOS app, and uploaded the images to Google Drive. Not the most efficient, but it works!
 
 Then, to resize the image so it's not too heavy in an article, I simply used an online resizer.
 
@@ -102,7 +106,7 @@ For the price it costs, you definitely have a nice machine.
 
 I really hope I'll get my mac back, (finger crossed) but this was a good opportunity to test the Raspberry Pi in Desktop mode!
 
-PS: For all users on [Gladys](https://gladysproject.com), sorry for not being that present last week, it was not an easy week. Without my mac, it was hard to publish big changes on the project, especially on the video pack I'm working on. But i'm back soon!
+PS: For all users on [Gladys](https://gladysproject.com), sorry for not being that present last week, it was not an easy week. Without my Mac, it was hard to publish big changes on the project, especially on the video pack I'm working on. But i'm back soon!
 
 
 
