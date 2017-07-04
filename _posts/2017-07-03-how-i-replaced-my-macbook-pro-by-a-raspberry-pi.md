@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I replaced my MacBook Pro by a Raspberry Pi during 1 week
-description: The story of a sofware engineer trying to work on a 35$ ARM machine
+description: The story of a Software Engineer trying to work on a 35$ ARM machine
 img: how-i-replaced-my-mabook-pro-by-a-raspberry-pi.png
 categories:
 - blog
