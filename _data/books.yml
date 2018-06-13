@@ -1,0 +1,99 @@
+- year: 2018
+  books: 
+    - name: "Early Retirement Extreme: A Philosophical and Practical Guide to Financial Independence"
+      link: https://www.amazon.com/gp/product/145360121X/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=145360121X&linkId=7f15b2939b6c46b9e81adf8ca62dc0b1
+      date: "06/06/2018"
+      img: early-retirement-extreme.jpg
+    - name: "Crushing It!: How Great Entrepreneurs Build Their Business and Influence-and How You Can, Too"
+      link: "https://www.amazon.com/gp/product/0062674676/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=0062674676&linkId=2cc8fb7d97a670d06832e9bd411e81d0"
+      date: "15/05/2018"
+      img: crushing-it.jpg
+    - name: "Stop Thinking Like a Freelancer: The Evolution of a $1M Web Designer"
+      link: "https://www.amazon.com/gp/product/B00PJIDO9C/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=B00PJIDO9C&linkId=08cfca0890ea169f5184eb345a57d276"
+      date: "28/03/2018"
+      img: "stop-thinking-like-a-freelancer.jpg"
+    - name: "The 48 Laws of Power"
+      link: "https://www.amazon.com/gp/product/0140280197/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=0140280197&linkId=041e75bf3a95fe9fee927f5d50aab60e"
+      img: "48-laws-of-power.jpg"
+- year: 2017
+  books:
+      - name: "Jony Ive: The Genius Behind Apple's Greatest Products"
+        link: "https://www.amazon.com/gp/product/1591847060/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=1591847060&linkId=ce230097de8334f3314e98a4beb42afe"
+        date: "22/09/2017"
+        img: "jony-ive-genius.jpg"
+      - name: "Crush It!: Why NOW Is the Time to Cash In on Your Passion"
+        date: "12/08/2017"
+        link: "https://www.amazon.com/gp/product/0061914177/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=0061914177&linkId=b57da7a892bc982e9fac1d2fc6f74b8a"
+        img: "crush-it.jpg"
+      - name: "Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money"
+        date: "02/08/2017"
+        link: "https://www.amazon.com/gp/product/006236250X/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=006236250X&linkId=fed98b15755dcb59e5685a280b9d6b6f"
+        img: "digital-gold.jpg"
+      - name: "ReWork: Change the Way You Work Forever"
+        date: "20/03/2017"
+        link: "https://www.amazon.com/gp/product/B011T7R5EQ/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=B011T7R5EQ&linkId=29ab257d5ce8a7acd72951d5f2147db7"
+        img: "rework.jpg"
+      - name: "Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization"
+        date: "08/02/2017"
+        link: "https://www.amazon.com/gp/product/1491965975/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=1491965975&linkId=43e5b3f9778000046890d16ece4bbb86"
+        img: production-ready-microservice.jpg
+- year: 2016
+  books:
+    - name: "Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers"
+      link: https://www.amazon.com/gp/product/1328683788/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=1328683788&linkId=93a496cef593252c5fbac7aa989db94d
+      img: tools-of-titans.jpg
+    - name: "The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich"
+      date: "15/11/2016"
+      link: "https://www.amazon.com/gp/product/0307465357/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=0307465357&linkId=908e77ca52ae30e46f70f11d4a480121"
+      img: 4-hour-workweek.jpg
+    - name: "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers"
+      date: "19/09/2016"
+      link: https://www.amazon.com/gp/product/0062273205/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=0062273205&linkId=4516296ec911d73ed97a53f298bd0bd6
+      img: the-hard-thing.jpg
+    - name: "The Miracle Morning: The 6 Habits That Will Transform Your Life Before 8AM"
+      date: "19/09/2016"
+      link: https://www.amazon.com/gp/product/1473632196/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=1473632196&linkId=a244448e3e656b4145083e01156f1715
+      img: miracle-morning.jpg
+    - name: "99 francs"
+      date: "30/05/2016"
+      link: https://www.amazon.fr/gp/product/2253164305/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=gladproj-21&creative=6746&linkCode=as2&creativeASIN=2253164305&linkId=39d7b6d7c413dec9d1e41d3049a9c00c
+      img: 99F.jpg
+    - name: "The $100 Startup: Fire Your Boss, Do What You Love and Work Better to Live More"
+      date: 14/02/2016
+      link: https://www.amazon.com/gp/product/1447286316/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=1447286316&linkId=52522a59e220300a2e442d5b9610ace6
+      img: 100$-startup.jpg
+    - name: "How To Win Friends And Influence People"
+      date: 14/02/2016
+      link: https://www.amazon.com/gp/product/0671027034/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=0671027034&linkId=261c5bf095e8d8439d5293dbbec0fd03
+      img: how-to-win-friend.jpg
+    - name: "How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships"
+      date: 14/02/2016
+      link: https://www.amazon.com/gp/product/007141858X/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=007141858X&linkId=4772f5489ed9e3c08c62f9036b9f054d
+      img: how-to-talk-to-anyone.jpg
+- year: 2015
+  books:
+    - name: "What the Most Successful People Do Before Breakfast: And Two Other Short Guides to Achieving More at Work and at Home"
+      link: https://www.amazon.com/gp/product/1591846692/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=1591846692&linkId=8556d178a13abe8cd493b6e38ea2839d
+      date: 14/12/2015
+      img: what-the-most-succesfull-do-before-breakfast.jpg
+    - name: "Hooked: How to Build Habit-Forming Products"
+      link: https://www.amazon.com/gp/product/1591847788/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=1591847788&linkId=82428d0110a41a991c9be7f87c86ba18
+      img: hooked.jpg
+    - name: "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future"
+      link: https://www.amazon.com/gp/product/0062301233/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=0062301233&linkId=960dbe927597a1a514e5efa8bc7e3c0a
+      img: elon-musk.jpg
+    - name: "Zero to One: Notes on Startups, or How to Build the Future"
+      link: https://www.amazon.com/gp/product/0804139296/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=0804139296&linkId=1df28d31bc86e1539a699703d84fb20e
+      img: zero-to-one.jpg
+    - name: "Traction: How Any Startup Can Achieve Explosive Customer Growth"
+      link: https://www.amazon.com/gp/product/1591848369/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=1591848369&linkId=93505c5f3ca0d0b6a96bc3ca2785d001
+      img: traction.jpg
+    - name: "Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising"
+      link: https://www.amazon.com/gp/product/1591847389/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=1591847389&linkId=01a8d3dd931939538f1661ace52eda93
+      img: growth-hacker-marketing.jpg
+    - name: La Septième fonction du langage
+      link: https://www.amazon.fr/gp/product/2253066249/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=gladproj-21&creative=6746&linkCode=as2&creativeASIN=2253066249&linkId=7c5e687679576e5ad801816f484f5fef
+      img: septieme-fonction.jpg
+    - name: La théorie de l'information
+      link: https://www.amazon.fr/gp/product/2070456269/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=gladproj-21&creative=6746&linkCode=as2&creativeASIN=2070456269&linkId=77b4068577172fb3d1f2bcce4ae14eaf
+      img: theorie-information.jpg
