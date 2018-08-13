@@ -2,7 +2,7 @@
 layout: post
 title: I'm moving to Bali!
 description: And it's just getting started ;)
-img: how-i-replaced-my-mabook-pro-by-a-raspberry-pi.png
+img: bali-1.jpg
 categories:
 - blog
 ---
