@@ -2,7 +2,7 @@
 layout: post
 title: I'm moving to Bali!
 description: And it's just getting started ;)
-img: how-i-replaced-my-mabook-pro-by-a-raspberry-pi.png
+img: bali-1.jpg
 categories:
 - blog
 ---
@@ -25,8 +25,6 @@ When I moved to Paris for work after that, I realized that life is not really th
 - Renting an appartement is more like 1000€/month for something decent
 - A bad beer is 5/7€, and a good belgium beer is more something like 6/10€. Yes, 10€ for a beer!
 
-You understand the idea, as price is defined by supply/demand, in Paris demand is so high that everything is crazy expensive 💸
-
 On top of that, life is not that much more fun. You need to commute to go to work. Often, the metro is broken and you get delayed. Spending 45 minutes 2 times a day in a metro full of people sweating is not something fun, you are just wasting your time.
 
 So I decided that Paris was not the city I wanted to live in today 😄
@@ -37,7 +35,7 @@ Since a couple of years, I'm following the [Nomad movement](https://nomadlist.co
 
 Being nomad means being location independant and living from where you want in the world!
 
-Pieter Levels created a website, [NomadList.com](https://nomadlist.com/), that allows you to compare lots of cities around the world.  You can compare cost of life, weather, air quality, proximity of beach, safety, fun, internet quality, and hundreds of other criteria.
+Pieter Levels created a website, [NomadList.com](https://nomadlist.com/), that allows you to compare lots of cities around the world.  You can compare cost of life, weather, air quality, proximity of beach, safety, fun, internet quality, and hundreds of other criterias.
 
 ![Nomadlist screenshot](/assets/img/2018-bali/nomadlist-screenshot.jpg)
 
@@ -117,7 +115,7 @@ Traveling around the world doesn't change anything about that.
 
 I'm going to stay at least 4 months in Bali, then in December I'll be back in France a couple of weeks.
 
-In January, I'm planning to move to Thailand, Bangkok & Chiang Mai seems to be nice cities for digital nomadsand it's the best season in Thailand to travel here.
+In January, I'm planning to move to Thailand. Bangkok & Chiang Mai seems to be nice cities for digital nomads and it's the best season in Thailand to travel here.
 
 My nomad lifestyle has no scheduled end 😉
 
