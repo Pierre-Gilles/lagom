@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My first month as a Digital Nomad in Bali
-description: My feedback about working from Bali, Indonesia!
+description: My feedbacks about working from Bali, Indonesia!
 img: my-first-month-in-bali.jpg
 categories:
 - blog
