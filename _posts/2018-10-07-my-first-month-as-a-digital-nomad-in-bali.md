@@ -13,7 +13,7 @@ It's already been one month since I'm working from Canggu, Bali. I wanted to wri
 
 ## Holidays
 
-I started Bali by 10 days of holidays with my friends. 
+I started this trip by 10 days of holidays with my friends. 
 
 We landed in Jakarta, the capital of Indonesia, which is located on Java Island. 
 
