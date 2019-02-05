@@ -10,7 +10,7 @@ categories:
 Hi, everyone! 
 
 
-After more than 3 years of blogging about home automation on [Gladys](https://gladysproject.com), I've decided to start a more personal blog in parallel.
+After more than 3 years of blogging about home automation on [Gladys Assistant](https://gladysassistant.com), I've decided to start a more personal blog in parallel.
 
 The goal of this blog is to talk about things I can't talk on Gladys blog because it's too technical/too personal.
 
@@ -27,7 +27,7 @@ On this blog, I'm going to talk about two kinds of things, first is mostly about
 
 - How I work, How I organize myself
 - Hardware reviews
-- Marketing tools I use on Gladys Project
+- Marketing tools I use on Gladys Assistant
 - Trip :)
 
 I won't be only blogging about technical stuff as you can see, it's really a personal and opinionated blog about things I do in my life.

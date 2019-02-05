@@ -9,7 +9,7 @@ categories:
 
 Hey everyone! 
 
-As you know, I founded an open-source project, [Gladys](https://gladysproject.com), which is a smart home assistant based on a Raspberry Pi.
+As you know, I founded an open-source project, [Gladys](https://gladysassistant.com), which is a smart home assistant based on a Raspberry Pi.
 
 I founded the project 5 years ago, and now my email list is bigger than ever: more than 3 000 subscribers on it! 🍾
 

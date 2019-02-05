@@ -314,14 +314,14 @@ I add the `init.sql` file inside the `/docker-entrypoint-initdb.d` folder so tha
 
 We now have our database! I hope you enjoyed this article, don't hesitate if you have any feedbacks. In the next article, I'm going to talk about the development of the REST API of the new dev platform.
 
-All of my code is on [Github](https://github.com/GladysProject/dev-plaftorm-backend).
+All of my code is on [Github](https://github.com/GladysAssistant/dev-plaftorm-backend).
 
 **Summary of this series:** 
 
 - [Refactoring Gladys Developer Platform (Part 1)](/blog/gladys/2017/04/22/refactoring-gladys-developer-website.html)
-- [RGDP - Database Design with PostgreSQL (Part 2)](/blog/gladys/2017/04/25/database-design-with-postgresql.html)
-- [RGDP - Building a powerful REST API with Node.js (Part 3)](/blog/gladys/2017/04/30/building-rest-api-using-node-js.html)
-- RGDP - Setting up Unit testing, Continuous Integration and Deployment (Part 4) (Coming soon)
-- RGDP - Leveraging caching with Redis (Part 5) (Coming soon)
-- RGDP - Scheduling job with RabbitMQ (Part 6) (Coming soon)
-- RGDP - A front-end in React/Redux (Part 7) (Coming soon)
+- [Database Design with PostgreSQL (Part 2)](/blog/gladys/2017/04/25/database-design-with-postgresql.html)
+- [Building a powerful REST API with Node.js (Part 3)](/blog/gladys/2017/04/30/building-rest-api-using-node-js.html)
+- Setting up Unit testing, Continuous Integration and Deployment (Part 4) (Coming soon)
+- Leveraging caching with Redis (Part 5) (Coming soon)
+- Scheduling job with RabbitMQ (Part 6) (Coming soon)
+- A front-end in React/Redux (Part 7) (Coming soon)

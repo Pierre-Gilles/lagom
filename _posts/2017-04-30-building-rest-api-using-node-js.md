@@ -241,7 +241,7 @@ Sending transactional emails (Confirmation email, reset password) is a serious j
 
 ## In closing
 
-I'm working hard on this new platform, and the back-end is in good way! Don't hesitate to get a look on the code on the [GitHub repository](https://github.com/GladysProject/dev-plaftorm-backend). Yes, this platform is open-source!
+I'm working hard on this new platform, and the back-end is in good way! Don't hesitate to get a look on the code on the [GitHub repository](https://github.com/GladysAssistant/dev-plaftorm-backend). Yes, this platform is open-source!
 
 I hope this article was clear, don't hesitate to ask question in comments :)
 

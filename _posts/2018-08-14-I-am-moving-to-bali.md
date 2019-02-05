@@ -11,7 +11,7 @@ It's now official, I'm moving to Bali the 20th of August, 2018 ✈️
 
 ![Bali Forest](/assets/img/2018-bali/bali-1.jpg)
 
-As I announced recently, I decided to [work part-time on my open-source project Gladys](https://www.patreon.com/gladysproject/overview) 👨🏼‍💻. In the other part-time, I'm going to work as a freelancer as a back-end Engineer ([hire me](https://twitter.com/pierregillesl)!). This new life allows me to be location independant, and to choose where I want to live.
+As I announced recently, I decided to [work part-time on my open-source project Gladys](https://www.patreon.com/gladysassistant/overview) 👨🏼‍💻. In the other part-time, I'm going to work as a freelancer as a back-end Engineer ([hire me](https://twitter.com/pierregillesl)!). This new life allows me to be location independant, and to choose where I want to live.
 
 ## My story
 
@@ -61,7 +61,7 @@ Perfect!
 
 ## What's next for me
 
-As I was saying in my article on [Gladys Patreon](https://www.patreon.com/gladysproject/overview), my current contract as Lead Backend Engineer at BulldozAIR ends the 16th of August 2018. 
+As I was saying in my article on [Gladys Patreon](https://www.patreon.com/gladysassistant/overview), my current contract as Lead Backend Engineer at BulldozAIR ends the 16th of August 2018. 
 
 The 20th of August, I'm flying to Indonesia ✈️
 

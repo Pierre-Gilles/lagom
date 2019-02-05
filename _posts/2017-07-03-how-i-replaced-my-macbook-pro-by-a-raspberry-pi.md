@@ -28,7 +28,7 @@ The Raspberry Pi 3
 
 I'm software engineer, and use this personal Mac for lots of stuff:
 
-- Coding on the opens-source project Gladys I founded. [Gladys](https://gladysproject.com) is a home assistant based on a Raspberry Pi (like a kind of Jarvis), written in Node.js so it's basically some Node.js development. For this I'm using VS Code + Node.js + MySQL.
+- Coding on the opens-source project Gladys I founded. [Gladys](https://gladysassistant.com) is a home assistant based on a Raspberry Pi (like a kind of Jarvis), written in Node.js so it's basically some Node.js development. For this I'm using VS Code + Node.js + MySQL.
 - Writing on Gladys blog. I'm writing my articles in Markdown using Macdown on my Mac. I'm editing images with Photoshop.
 - Answering messages on Gladys community (it's basically a Discourse forum)
 - Video editing on Final Cut Pro (outch, this is going to be hard to replace)
@@ -106,7 +106,7 @@ For the price it costs, you definitely have a nice machine.
 
 I really hope I'll get my mac back, (finger crossed) but this was a good opportunity to test the Raspberry Pi in Desktop mode!
 
-PS: For all users on [Gladys](https://gladysproject.com), sorry for not being that present last week, it was not an easy week. Without my Mac, it was hard to publish big changes on the project, especially on the video pack I'm working on. But I'll be back soon!
+PS: For all users on [Gladys](https://gladysassistant.com), sorry for not being that present last week, it was not an easy week. Without my Mac, it was hard to publish big changes on the project, especially on the video pack I'm working on. But I'll be back soon!
 
 
 
