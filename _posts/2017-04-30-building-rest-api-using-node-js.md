@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RGDP - Building a powerful REST API with Node.js (Part 3)
+title: Building a powerful REST API with Node.js (Part 3)
 description: How I'm building a better, faster, stronger Gladys Developer Platform with Node.js!
 img: refactoring-developer-website-part-3.jpg
 categories:
@@ -250,11 +250,11 @@ Have a nice week-end!
 **Summary of this series:** 
 
 - [Refactoring Gladys Developer Platform (Part 1)](/blog/gladys/2017/04/22/refactoring-gladys-developer-website.html)
-- [RGDP - Database Design with PostgreSQL (Part 2)](/blog/gladys/2017/04/25/database-design-with-postgresql.html)
-- [RGDP - Building a powerful REST API with Node.js (Part 3)](/blog/gladys/2017/04/30/building-rest-api-using-node-js.html)
-- RGDP - Setting up Unit testing, Continuous Integration and Deployment (Part 4) (Coming soon)
-- RGDP - Leveraging caching with Redis (Part 5) (Coming soon)
-- RGDP - Scheduling job with RabbitMQ (Part 6) (Coming soon)
-- RGDP - A front-end in React/Redux (Part 7) (Coming soon)
+- [Database Design with PostgreSQL (Part 2)](/blog/gladys/2017/04/25/database-design-with-postgresql.html)
+- [Building a powerful REST API with Node.js (Part 3)](/blog/gladys/2017/04/30/building-rest-api-using-node-js.html)
+- Setting up Unit testing, Continuous Integration and Deployment (Part 4) (Coming soon)
+- Leveraging caching with Redis (Part 5) (Coming soon)
+- Scheduling job with RabbitMQ (Part 6) (Coming soon)
+- A front-end in React/Redux (Part 7) (Coming soon)
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RGDP - Database Design with PostgreSQL (Part 2)
+title: Database Design with PostgreSQL (Part 2)
 description: Designing Gladys Developer website database with PostgreSQL.
 img: refactoring-developer-website-part-2.jpg
 categories:
