@@ -2,7 +2,7 @@
 layout: post
 title: Living 2 months in Koh Lanta
 description: After a short stay in Bangkok, I spent 2 months on this beautiful Island!
-img: living-2-months-in-koh-lanta.jpg
+img: jump-koh-lanta.jpg
 categories:
 - blog
 ---
@@ -11,9 +11,11 @@ After [10 days in Bangkok](/blog/2019/02/10/10-days-in-bangkok.html), I spent 2 
 
 In this blog post I will explain everything: What I loved, what I didn't like, the cost of my stay and what I visited on this Island.
 
+![Wonderful Resort](/assets/img/jump-koh-lanta.jpg)
+
 ## Rent
 
-Compared to Bali, it was a little harder to find a very cheap accommodation. My goal is always to rent something under 330€ month (max 11€/night). While in Bali you can get something amazing starting at 200€/month with a swimming pool, proximity from the beach, and a great double bedroom, here it's a little harder. 
+Compared to Bali, it was a little harder to find a very cheap accommodation. My goal is always to rent something under 330€/month (max 11€/night). While in Bali you can get something amazing starting at 200€/month with a swimming pool, proximity from the beach, and a great double bedroom, here it's a little harder. 
 
 But I succeeded! 😄
 
@@ -60,7 +62,7 @@ About the price, it's a little bit more expensive than Indonesia, but it's still
 
 ### The best Pad Thai in Koh Lanta
 
-If you want to have the best Pad Thai of your life, go to Mr Pad Thai (just type "Aleena minimart" on Google Maps, it's in front of it.
+If you want to have the best Pad Thai of your life, go to Mr Pad Thai (just type [Aleena minimart](https://www.google.com/maps/place/Aleena+Minimart/@7.6173396,99.0290629,17z/data=!4m12!1m6!3m5!1s0x304e03430a8af1e1:0xc90c8c5584212630!2sLanta+Panda+bungalows+%26+restaurant!8m2!3d7.6173343!4d99.0312516!3m4!1s0x0:0x5034316c4ea86e44!8m2!3d7.616879!4d99.0308375) on Google Maps, it's in front of it.
 
 The owner is really nice, doing everything by himself, and portion are really big!
 
@@ -70,7 +72,7 @@ A must do!
 
 ### The best Chicken Massamam Curry in Koh Lanta
 
-You can find it at Lanta Panda restaurant, quite near Mr Pad Thai. 
+You can find it at [Lanta Panda restaurant](https://www.google.com/maps/place/Lanta+Panda+bungalows+%26+restaurant/@7.6173396,99.0290629,17z/data=!3m1!4b1!4m5!3m4!1s0x304e03430a8af1e1:0xc90c8c5584212630!8m2!3d7.6173343!4d99.0312516), quite near Mr Pad Thai.
 
 I found this place only at the end of my stay, but it's definitely the best Massamam Curry I ate in Thailand.
 
@@ -107,7 +109,6 @@ And you can find a great waterfall in the middle of the jungle, and this one is 
 Finally, you can just chill by the pool with a drink and a good book 🍹 
 
 ![Chill by the pool](/assets/img/2019-koh-lanta/swimming-pool.jpg)
-
 
 ## Visa
 
