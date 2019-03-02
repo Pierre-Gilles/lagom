@@ -2,8 +2,12 @@
   books: 
     - name: "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"
       link: https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=0735211299&linkId=f186dbbde190c65e56e481e34459b630
-      date: "15/01/2019"
+      date: "01/02/2019"
       img: atomic-habits.jpg
+    - name: "Never Split the Difference: Negotiating as if Your Life Depended on It"
+      link: https://www.amazon.com/gp/product/1847941494/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=1847941494&linkId=b06462012065a6b35c9afb8c80362e7d
+      date: "15/01/2019"
+      img: never-split-the-difference.jpg
 - year: 2018
   books: 
     - name: "Brave New World"
