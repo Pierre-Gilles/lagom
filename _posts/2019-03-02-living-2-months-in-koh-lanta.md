@@ -123,6 +123,8 @@ In January you can notice my 300€ flight from Paris to Bangkok, and my 33€ f
 
 This explains why this month is slightly more expensive.
 
+My rent in Koh Lanta was just for the end of January + February + beginning of March. At the beginning of January I was sleeping in an hostel in Bangkok (see the "hotel" row in the budget).
+
 In general I try to keep my spending around 700€ spent/month. 
 
 ## My feedback
@@ -135,7 +137,7 @@ I had an **amazing time** here!
 
 I still have two negative feedbacks about Koh Lanta:
 
-- The road was in construction while I was here, and it was really painful to walk/drive. Some days were really a nightmare in terms of traffic, dust and construction noise. But this is just a temporary issue, nothing related to Koh Lanta :)
+- The road was in construction while I was there, and it was really painful to walk/drive. Some days were really a nightmare in terms of traffic, dust and construction noise. But this is just a temporary issue, nothing related to Koh Lanta :)
 - A few people got dengue fever when I was there, and it became a recurrent topic with my coworking space colleagues. We were all scared of getting dengue 😅 But it's like everywhere in tropical countries, mosquittos are everywhere. You just have to use repellent and be cautious.
 
 ## What's next for me
