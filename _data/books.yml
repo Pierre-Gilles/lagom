@@ -1,9 +1,19 @@
+- year: 2019
+  books: 
+    - name: "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"
+      link: https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=0735211299&linkId=f186dbbde190c65e56e481e34459b630
+      date: "15/01/2019"
+      img: atomic-habits.jpg
 - year: 2018
   books: 
     - name: "Brave New World"
       link: https://www.amazon.com/gp/product/0060776099/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=0060776099&linkId=c4cfc60b3f848c23c57b54b96ecbedb6
       date: "08/09/2018"
       img: brave-new-world.jpg
+    - name: "Predictably Irrational: The Hidden Forces That Shape Our Decisions"
+      link: https://www.amazon.com/gp/product/0061353248/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=0061353248&linkId=33ffe2c554da0cc1c1d85ad525e7bc9c
+      date: "01/10/2018"
+      img: predictably-irrational.jpg
     - name: "Early Retirement Extreme: A Philosophical and Practical Guide to Financial Independence"
       link: https://www.amazon.com/gp/product/145360121X/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=145360121X&linkId=7f15b2939b6c46b9e81adf8ca62dc0b1
       date: "06/06/2018"
@@ -16,6 +26,9 @@
       link: "https://www.amazon.com/gp/product/B00PJIDO9C/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=B00PJIDO9C&linkId=08cfca0890ea169f5184eb345a57d276"
       date: "28/03/2018"
       img: "stop-thinking-like-a-freelancer.jpg"
+    - name: "Delivering Happiness: A Path to Profits, Passion, and Purpose"
+      link: "https://www.amazon.com/gp/product/0446576220/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=0446576220&linkId=6ef21a7b326dfdcc31aaadd4b06f4451"
+      img: delivering-happiness-zappos.jpg
     - name: "The 48 Laws of Power"
       link: "https://www.amazon.com/gp/product/0140280197/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=pierre-gilles-20&creative=9325&linkCode=as2&creativeASIN=0140280197&linkId=041e75bf3a95fe9fee927f5d50aab60e"
       img: "48-laws-of-power.jpg"
