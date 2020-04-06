@@ -46,7 +46,7 @@ I looked at many providers :
 - **DigitalOcean**: Their prices are great, performances are reliable, and the UI is just amazing. But they are not available in France (yet?) sadly.
 - **Scaleway** : General purpose instances looked promising, but were expensive (Starting at 42\$/month + VAT) + a quick twitter search showed me that Scaleway had reliability issue, not well handled... They don't seem to care about uptime, which is very important for critical application like this. I want guarantees on SLA + automatic refund with a multiplier when the server is down.
 - **OVH**: I read only bad feedbacks about them. Reliability & support is not their thing...
-- **Vultr**: A great DigitalOcean-like provider, with a datacenter in France :heart_eyes: I saw that they launched a High Frequency compute offer recently, and this is what I'm going to benchmark here!
+- **Vultr**: A great DigitalOcean-like provider, with a datacenter in France 😍 I saw that they launched a High Frequency compute offer recently, and this is what I'm going to benchmark here!
 
 ## Vultr High Frequency Compute Benchmark
 
