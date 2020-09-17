@@ -2,7 +2,7 @@
 layout: post
 title: Living in Barcelona as a Digital Nomad
 description: After coronavirus lockdown in France, I decided to spend the summer in Barcelona, Spain
-img: jump-koh-lanta.jpg
+img: living-in-barcelona.jpg
 categories:
   - blog
 ---
@@ -27,7 +27,7 @@ This is how the appartment was looking like:
 
 ![Airbnb Barcelona](/assets/img/2020-barcelona/airbnb.jpg)
 
-In this appartment, we had an amazing optic fiber with 450Mb/s down & 590Mps down. Perfect for working.
+In this appartment, we had an amazing optic fiber with 450Mbps down & 590Mbps up. Perfect for working.
 
 ![Airbnb Barcelona](/assets/img/2020-barcelona/airbnb-speed-test.jpg)
 
@@ -45,7 +45,7 @@ We mostly ate at home, but were going out a few times per week to have a drink &
 
 A few prices:
 
-- Pinxtos are small snacks you can eat in bars. It's a piece of bread with cheese/vegetables/ham on top, spiked with a toothpick. You usually pay for the number of toothpick you have in your plate at the end of the meal, and it costs 1€/pintxos for the basic ones, and 1€50 for more complex pintxos.
+- Pinxtos are small snacks you can eat in bars. It's a piece of bread with cheese/vegetables/ham on top, spiked with a toothpick. You usually pay for the number of toothpick you have in your plate at the end of the meal, and it costs 1€/pintxos for the basic ones, and 1€50 for more complex pintxos. Best Pinxtos are in [Carrer de Blai](https://www.google.com/maps/place/Carrer+de+Blai,+08004+Barcelona), it's a street full of Pinxtos bar.
 
 ![Pinxtos](/assets/img/2020-barcelona/pinxtos.jpg)
 
