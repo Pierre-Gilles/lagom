@@ -2,6 +2,18 @@
 highlighter: rouge
 url: https://pierregillesleymarie.com
 lsi: false
-exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock, node_modules, package.json, gulpfile.js]
+exclude:
+  [
+    LICENSE,
+    CNAME,
+    README.md,
+    .gitignore,
+    Gemfile,
+    Gemfile.lock,
+    node_modules,
+    package.json,
+    gulpfile.js,
+    vendor,
+  ]
 gems:
   - jekyll-redirect-from
