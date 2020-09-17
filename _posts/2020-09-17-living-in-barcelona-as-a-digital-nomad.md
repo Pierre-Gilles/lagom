@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Living in Barcelona as a Digital Nomad
-description: After coronavirus lockdown in France, I decided to spend the summer in Barcelona, Spain
+description: After coronavirus lockdown in France, we decided to spend the summer in Barcelona, Spain
 img: living-in-barcelona.jpg
 categories:
   - blog
