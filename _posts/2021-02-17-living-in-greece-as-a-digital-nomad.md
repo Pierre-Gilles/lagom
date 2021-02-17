@@ -9,17 +9,17 @@ categories:
 
 After spending summer 2020 in Barcelona (Spain) with my girlfriend, we decided to move to Greece for the end of the year. We were expecting to go to Bali at first, but we couldn’t go there due to coronavirus. So we stayed in Europe, in the only country with a great temperature during fall.
 
-We started with 2 weeks of travelling, going from Athen, to Mykonos, Paros, Naxos, Santorini, and finally Crete, our final destination.
+We started with 2 weeks of travelling, going from Athens, to Mykonos, Paros, Naxos, Santorini, and finally Crete, our final destination.
 
-We didn’t work in the island, it was just holidays, and I don’t think it would have been easy to work: wifi is not that great in the island, and all those places are designed for tourists.
+We didn’t work in the islands, it was just holidays, and I don’t think it would have been easy to work: wifi is not that great in the islands, and all those places are designed for tourists.
 
 ## Our holidays in Athens & the Greek Islands
 
-### Athen
+### Athens
 
-We landed in Athen end of September 2020, and we stayed a few days there. We visited as much as we could, and enjoyed our first bites of Greek food.
+We landed in Athens end of September 2020, and we stayed a few days there. We visited as much as we could, and enjoyed our first bites of Greek food.
 
-We were amazed how cheap the prices are in Athen, and how good is the food. It seemed very authentic and very local to us, even more when we compared to the Island that are very touristy.
+We were amazed how cheap the prices are in Athens, and how good is the food. It seemed very authentic and very local to us, even more when we compared to the Island that are very touristy.
 
 ![Athens](/assets/img/2020-greece/IMG_7169.jpeg)
 
@@ -33,7 +33,7 @@ Mykonos is a very beautiful Island, it looks like the typical greek island clich
 
 With Covid 19, we didn’t see the nightlife as more clubs were empty, but at least we had the beaches for ourselves!
 
-We took the ferry to Naxos, a calmer island known to be great for couples: and it was!
+We took the ferry to Paros, a calmer island known to be great for couples: and it was!
 
 We loved the restaurants, the city center.
 
@@ -77,7 +77,7 @@ At the end of this trip, we went to Chania, Crete, to stay 1.5 months there.
 
 ### Rent
 
-We found a small house on AirBnb in the center of Chania. We paid XX € / night / person.
+We found a small house on AirBnb in the center of Chania. We paid 10.95€/night/person.
 
 The house was ok: well located, with enough space to live, but it was definitely old & wifi was not amazing (10Mb/s).
 
@@ -120,23 +120,23 @@ We went hiking in the Samarias Gorge, a 14km hike in the Mountain.
 
 ![Samarias Gorge](/assets/img/2020-greece/IMG_3904.jpeg)
 
-## Life in Athen, Greece
+## Life in Athens, Greece
 
-After spending 1.5 month in Crete, we decided to move to Athen before going back to France for Christmas.
+After spending 1.5 month in Crete, we decided to move to Athens before going back to France for Christmas.
 
 ### Rent
 
 We found a nice 2 bedroom suite in a hotel that we shared with another digital nomad couple, the price was just amazing: 200€/month/person = 6,66€ per night in a 4 star all furnished hotel !!
 
-![Rent in Athen](/assets/img/2020-greece/IMG_5356.jpeg)
+![Rent in Athens](/assets/img/2020-greece/IMG_5356.jpeg)
 
 ### Coworking space
 
 The hotel Wi-Fi was ok, but not good enough to be 4 working on it all day.
 
-We found a brand having several coworking spaces in the center of Athen, and we had quite a mixed experience with it.
+We found a brand having several coworking spaces in the center of Athens, and we had quite a mixed experience with it.
 
-![Coworking Athen](/assets/img/2020-greece/IMG_5342.jpeg)
+![Coworking Athens](/assets/img/2020-greece/IMG_5342.jpeg)
 
 **Pro:**
 
@@ -154,7 +154,7 @@ I just think it’s the kind of shady company that don’t care and don’t resp
 
 ### Food
 
-We loved the food when we went to Athen in September, but this time everything was closed due to Covid lockdown. We still ordered food online with Wolt (Uber Eats in Greece), and enjoyed cheap Athen prices!
+We loved the food when we went to Athens in September, but this time everything was closed due to Covid lockdown. We still ordered food online with Wolt (Uber Eats in Greece), and enjoyed cheap Athens prices!
 
 ## Final words
 
